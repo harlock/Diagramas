@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-02-28T15:36:35.388Z" agent="5.0 (Macintosh)" etag="nGR9pQhtkgil3Qj9dstH" version="16.6.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-02-28T15:37:01.110Z" agent="5.0 (Macintosh)" etag="o2LwHMmz4NctC-Qx6o0o" version="16.6.4" type="github">
   <diagram id="3YNWn-B4lSkAI1KDsXIr" name="Page-1">
     <mxGraphModel dx="507" dy="334" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -37,7 +37,7 @@
         <mxCell id="6AdjQgX-7gJ5Upw2ovpv-32" value="&lt;div&gt;01110101&lt;/div&gt;&lt;div&gt;01110101&lt;/div&gt;&lt;div&gt;11010101&lt;/div&gt;&lt;div&gt;11010110&lt;/div&gt;&lt;div&gt;00101010&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="6AdjQgX-7gJ5Upw2ovpv-33" vertex="1">
           <mxGeometry x="66.66999999999999" y="70" width="60" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="6AdjQgX-7gJ5Upw2ovpv-38" value="&lt;div&gt;Instrumento de recolección &lt;/div&gt;de fografías" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;" parent="1" vertex="1">
+        <mxCell id="6AdjQgX-7gJ5Upw2ovpv-38" value="&lt;div&gt;Instrumento de recolección &lt;/div&gt;de fotografías" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;" parent="1" vertex="1">
           <mxGeometry x="110" y="200" width="150" height="20" as="geometry" />
         </mxCell>
         <mxCell id="6AdjQgX-7gJ5Upw2ovpv-40" value="Base de conocimiento" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;" parent="1" vertex="1">
