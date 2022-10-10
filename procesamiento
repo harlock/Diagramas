@@ -1,1 +1,61 @@
-<mxfile host="app.diagrams.net" modified="2022-10-07T21:02:57.782Z" agent="5.0 (Macintosh)" version="20.4.0" etag="JkO8-j_GUYDIq4aSvkHo" type="github"><diagram id="NKTKAVnXczIhNRL58Fke">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-10-10T14:35:19.990Z" agent="5.0 (Macintosh)" etag="654e4dUhCWdV_5p9PAeD" version="20.4.0" type="github">
+  <diagram id="NKTKAVnXczIhNRL58Fke" name="Página-1">
+    <mxGraphModel dx="885" dy="553" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="gj_Yk7CWJ0tZinmn6cWQ-8" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="600" y="100" width="200" height="470" as="geometry" />
+        </mxCell>
+        <mxCell id="gj_Yk7CWJ0tZinmn6cWQ-7" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="340" y="120" width="200" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="gj_Yk7CWJ0tZinmn6cWQ-4" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="100" y="120" width="200" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="gj_Yk7CWJ0tZinmn6cWQ-1" value="CPU" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="120" y="135" width="60" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="gj_Yk7CWJ0tZinmn6cWQ-2" value="&lt;div&gt;GPU&lt;/div&gt;&lt;div&gt;4GB&lt;br&gt;&lt;/div&gt;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="210" y="135" width="60" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="gj_Yk7CWJ0tZinmn6cWQ-5" value="CPU" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+          <mxGeometry x="370" y="140" width="60" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="gj_Yk7CWJ0tZinmn6cWQ-6" value="&lt;div&gt;GPU&lt;/div&gt;16GB" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="460" y="140" width="60" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="gj_Yk7CWJ0tZinmn6cWQ-9" value="CPU" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+          <mxGeometry x="625" y="110" width="60" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="gj_Yk7CWJ0tZinmn6cWQ-10" value="&lt;div&gt;GPU&lt;/div&gt;&lt;div&gt;12GB&lt;/div&gt;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+          <mxGeometry x="715" y="110" width="60" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="gj_Yk7CWJ0tZinmn6cWQ-11" value="&lt;div&gt;GPU&lt;/div&gt;&lt;div&gt;16GB&lt;/div&gt;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+          <mxGeometry x="630" y="200" width="60" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="gj_Yk7CWJ0tZinmn6cWQ-12" value="&lt;div&gt;GPU&lt;/div&gt;&lt;div&gt;16GB&lt;/div&gt;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+          <mxGeometry x="720" y="200" width="60" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="gj_Yk7CWJ0tZinmn6cWQ-13" value="&lt;div&gt;GPU&lt;/div&gt;&lt;div&gt;16GB&lt;/div&gt;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+          <mxGeometry x="630" y="290" width="60" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="gj_Yk7CWJ0tZinmn6cWQ-14" value="&lt;div&gt;GPU&lt;/div&gt;&lt;div&gt;16GB&lt;/div&gt;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+          <mxGeometry x="720" y="370" width="60" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="gj_Yk7CWJ0tZinmn6cWQ-15" value="&lt;div&gt;GPU&lt;/div&gt;&lt;div&gt;16GB&lt;/div&gt;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+          <mxGeometry x="630" y="370" width="60" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="gj_Yk7CWJ0tZinmn6cWQ-16" value="&lt;div&gt;GPU&lt;/div&gt;&lt;div&gt;16GB&lt;/div&gt;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+          <mxGeometry x="720" y="470" width="60" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="gj_Yk7CWJ0tZinmn6cWQ-17" value="&lt;div&gt;GPU&lt;/div&gt;&lt;div&gt;16GB&lt;/div&gt;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+          <mxGeometry x="630" y="460" width="60" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="gj_Yk7CWJ0tZinmn6cWQ-18" value="&lt;div&gt;GPU&lt;/div&gt;&lt;div&gt;16GB&lt;/div&gt;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+          <mxGeometry x="715" y="280" width="60" height="80" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
