@@ -1,10 +1,10 @@
-<mxfile host="app.diagrams.net" modified="2023-08-07T13:32:59.626Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.13; rv:109.0) Gecko/20100101 Firefox/115.0" etag="Rmrl7zY4keyKqtJMOqrD" version="21.5.0" type="github">
+<mxfile host="app.diagrams.net" modified="2023-08-14T13:44:33.079Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:109.0) Gecko/20100101 Firefox/116.0" etag="psvCj7ClmcIQ4CuGLLRE" version="21.6.6" type="github">
   <diagram name="Página-1" id="ZtZ3Ds6f9lcYi9fkY5Td">
-    <mxGraphModel dx="934" dy="1462" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
+    <mxGraphModel dx="1183" dy="1632" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="eSXVUBHYgicq2QWfFTog-1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Times New Roman;fontSize=12;" edge="1" parent="1" source="eSXVUBHYgicq2QWfFTog-2" target="eSXVUBHYgicq2QWfFTog-4">
+        <mxCell id="eSXVUBHYgicq2QWfFTog-1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Times New Roman;fontSize=12;" parent="1" source="eSXVUBHYgicq2QWfFTog-2" target="eSXVUBHYgicq2QWfFTog-4" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="205" y="70" />
@@ -12,10 +12,10 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="eSXVUBHYgicq2QWfFTog-2" value="&lt;br style=&quot;font-size: 12px;&quot;&gt;Número de registros identificados&lt;br style=&quot;font-size: 12px;&quot;&gt;mediante búsquedas en bases de datos&lt;br style=&quot;font-size: 12px;&quot;&gt;&lt;p class=&quot;MsoNormal&quot; style=&quot;font-size: 12px;&quot; align=&quot;center&quot;&gt;&lt;span style=&quot;font-size: 12px;&quot; lang=&quot;ES&quot;&gt;(n =&amp;nbsp; 346 )&lt;/span&gt;&lt;/p&gt;&lt;p class=&quot;MsoNormal&quot; style=&quot;font-size: 12px;&quot; align=&quot;center&quot;&gt;&lt;span style=&quot;font-size: 12px;&quot; lang=&quot;ES&quot;&gt;ScienceDirect (165)&lt;br style=&quot;font-size: 12px;&quot;&gt;Google Scholar (88)&lt;br style=&quot;font-size: 12px;&quot;&gt;Springer Link (68)&lt;br style=&quot;font-size: 12px;&quot;&gt;IEEE (25)&lt;br style=&quot;font-size: 12px;&quot;&gt;&lt;/span&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=12;" vertex="1" parent="1">
+        <mxCell id="eSXVUBHYgicq2QWfFTog-2" value="&lt;br style=&quot;font-size: 12px;&quot;&gt;Number of records identified through database searches&lt;p class=&quot;MsoNormal&quot; style=&quot;font-size: 12px;&quot; align=&quot;center&quot;&gt;&lt;span style=&quot;font-size: 12px;&quot; lang=&quot;ES&quot;&gt;(n =&amp;nbsp; 346 )&lt;/span&gt;&lt;/p&gt;&lt;p class=&quot;MsoNormal&quot; style=&quot;font-size: 12px;&quot; align=&quot;center&quot;&gt;&lt;span style=&quot;font-size: 12px;&quot; lang=&quot;ES&quot;&gt;ScienceDirect (165)&lt;br style=&quot;font-size: 12px;&quot;&gt;Google Scholar (88)&lt;br style=&quot;font-size: 12px;&quot;&gt;Springer Link (68)&lt;br style=&quot;font-size: 12px;&quot;&gt;IEEE (25)&lt;br style=&quot;font-size: 12px;&quot;&gt;&lt;/span&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=12;" parent="1" vertex="1">
           <mxGeometry x="90" y="-100" width="230" height="130" as="geometry" />
         </mxCell>
-        <mxCell id="eSXVUBHYgicq2QWfFTog-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Times New Roman;fontSize=12;" edge="1" parent="1" source="eSXVUBHYgicq2QWfFTog-4" target="eSXVUBHYgicq2QWfFTog-9">
+        <mxCell id="eSXVUBHYgicq2QWfFTog-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Times New Roman;fontSize=12;" parent="1" source="eSXVUBHYgicq2QWfFTog-4" target="eSXVUBHYgicq2QWfFTog-9" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="250" y="140" />
@@ -23,10 +23,10 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="eSXVUBHYgicq2QWfFTog-4" value="&lt;div style=&quot;font-size: 12px;&quot;&gt;&lt;span style=&quot;background-color: initial; font-size: 12px;&quot;&gt;Número de registros tras eliminar citas&lt;/span&gt;&lt;/div&gt;duplicadas&lt;br style=&quot;font-size: 12px;&quot;&gt;&lt;span style=&quot;font-size: 12px; background-color: initial;&quot;&gt;(n =&amp;nbsp; 340 )&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=0;align=center;fontFamily=Times New Roman;fontSize=12;" vertex="1" parent="1">
+        <mxCell id="eSXVUBHYgicq2QWfFTog-4" value="Number of records after removing duplicate citations&lt;br style=&quot;font-size: 12px;&quot;&gt;(n =&amp;nbsp; 340 )" style="whiteSpace=wrap;html=1;rounded=0;align=center;fontFamily=Times New Roman;fontSize=12;" parent="1" vertex="1">
           <mxGeometry x="145" y="70" width="435" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="eSXVUBHYgicq2QWfFTog-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Times New Roman;fontSize=12;" edge="1" parent="1" source="eSXVUBHYgicq2QWfFTog-6" target="eSXVUBHYgicq2QWfFTog-4">
+        <mxCell id="eSXVUBHYgicq2QWfFTog-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Times New Roman;fontSize=12;" parent="1" source="eSXVUBHYgicq2QWfFTog-6" target="eSXVUBHYgicq2QWfFTog-4" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="530" y="70" />
@@ -34,46 +34,46 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="eSXVUBHYgicq2QWfFTog-6" value="&lt;br style=&quot;font-size: 12px;&quot;&gt;Número de registros adicionales&lt;br style=&quot;font-size: 12px;&quot;&gt;identificados mediante otras fuentes&lt;p class=&quot;MsoNormal&quot; style=&quot;font-size: 12px;&quot; align=&quot;center&quot;&gt;&lt;span style=&quot;font-size: 12px;&quot; lang=&quot;ES&quot;&gt;(n = 18)&lt;/span&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=12;" vertex="1" parent="1">
+        <mxCell id="eSXVUBHYgicq2QWfFTog-6" value="Number of additional records identified through other sources&lt;p class=&quot;MsoNormal&quot; style=&quot;font-size: 12px;&quot; align=&quot;center&quot;&gt;&lt;span style=&quot;font-size: 12px;&quot; lang=&quot;ES&quot;&gt;(n = 18)&lt;/span&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=12;" parent="1" vertex="1">
           <mxGeometry x="400" y="-40" width="260" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="eSXVUBHYgicq2QWfFTog-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Times New Roman;fontSize=12;" edge="1" parent="1" source="eSXVUBHYgicq2QWfFTog-9" target="eSXVUBHYgicq2QWfFTog-12">
+        <mxCell id="eSXVUBHYgicq2QWfFTog-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Times New Roman;fontSize=12;" parent="1" source="eSXVUBHYgicq2QWfFTog-9" target="eSXVUBHYgicq2QWfFTog-12" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="eSXVUBHYgicq2QWfFTog-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Times New Roman;fontSize=12;" edge="1" parent="1" source="eSXVUBHYgicq2QWfFTog-9" target="eSXVUBHYgicq2QWfFTog-14">
+        <mxCell id="eSXVUBHYgicq2QWfFTog-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Times New Roman;fontSize=12;" parent="1" source="eSXVUBHYgicq2QWfFTog-9" target="eSXVUBHYgicq2QWfFTog-14" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="eSXVUBHYgicq2QWfFTog-9" value="Número de registros cribados&lt;br style=&quot;font-size: 12px;&quot;&gt;&lt;br style=&quot;font-size: 12px;&quot;&gt;(n= 119)" style="whiteSpace=wrap;html=1;rounded=0;fontFamily=Times New Roman;fontSize=12;" vertex="1" parent="1">
+        <mxCell id="eSXVUBHYgicq2QWfFTog-9" value="&lt;div&gt;Number of screened records&lt;/div&gt;&lt;br style=&quot;font-size: 12px;&quot;&gt;(n= 119)" style="whiteSpace=wrap;html=1;rounded=0;fontFamily=Times New Roman;fontSize=12;" parent="1" vertex="1">
           <mxGeometry x="110" y="180" width="270" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="eSXVUBHYgicq2QWfFTog-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Times New Roman;fontSize=12;" edge="1" parent="1" source="eSXVUBHYgicq2QWfFTog-12" target="eSXVUBHYgicq2QWfFTog-13">
+        <mxCell id="eSXVUBHYgicq2QWfFTog-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Times New Roman;fontSize=12;" parent="1" source="eSXVUBHYgicq2QWfFTog-12" target="eSXVUBHYgicq2QWfFTog-13" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="eSXVUBHYgicq2QWfFTog-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Times New Roman;fontSize=12;" edge="1" parent="1" source="eSXVUBHYgicq2QWfFTog-12" target="eSXVUBHYgicq2QWfFTog-15">
+        <mxCell id="eSXVUBHYgicq2QWfFTog-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Times New Roman;fontSize=12;" parent="1" source="eSXVUBHYgicq2QWfFTog-12" target="eSXVUBHYgicq2QWfFTog-15" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="eSXVUBHYgicq2QWfFTog-12" value="Número de artículos de texto completo evaluados para su elegibilidad&amp;nbsp;&lt;br style=&quot;font-size: 12px;&quot;&gt;&lt;br style=&quot;font-size: 12px;&quot;&gt;(n= 37 )&amp;nbsp;" style="whiteSpace=wrap;html=1;rounded=0;fontFamily=Times New Roman;fontSize=12;" vertex="1" parent="1">
+        <mxCell id="eSXVUBHYgicq2QWfFTog-12" value="&lt;div&gt;Number of full-text articles evaluated for eligibility&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;(n= 37 )&amp;nbsp;" style="whiteSpace=wrap;html=1;rounded=0;fontFamily=Times New Roman;fontSize=12;" parent="1" vertex="1">
           <mxGeometry x="110" y="300" width="270" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="eSXVUBHYgicq2QWfFTog-13" value="&lt;br style=&quot;font-size: 12px;&quot;&gt;&lt;br style=&quot;font-size: 12px;&quot;&gt;&lt;br style=&quot;font-size: 12px;&quot;&gt;&lt;p style=&quot;text-align: center; font-size: 12px;&quot; class=&quot;MsoNormal&quot; align=&quot;center&quot;&gt;&lt;span style=&quot;font-size: 12px;&quot; lang=&quot;ES&quot;&gt;&lt;br style=&quot;font-size: 12px;&quot;&gt;&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;text-align: center; font-size: 12px;&quot; class=&quot;MsoNormal&quot; align=&quot;center&quot;&gt;&lt;span style=&quot;font-size: 12px; background-color: initial;&quot;&gt;Número de estudios incluidos en la revisión&lt;br style=&quot;font-size: 12px;&quot;&gt;&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;text-align: center; font-size: 12px;&quot; class=&quot;MsoNormal&quot; align=&quot;center&quot;&gt;&lt;span style=&quot;font-size: 12px;&quot; lang=&quot;ES&quot;&gt;(n =&lt;span style=&quot;font-size: 12px;&quot;&gt;&amp;nbsp; 37&amp;nbsp; &lt;/span&gt;)&lt;/span&gt;&lt;/p&gt;&lt;br style=&quot;font-size: 12px;&quot;&gt;" style="whiteSpace=wrap;html=1;rounded=0;fontFamily=Times New Roman;fontSize=12;" vertex="1" parent="1">
-          <mxGeometry x="125" y="410" width="240" height="100" as="geometry" />
+        <mxCell id="eSXVUBHYgicq2QWfFTog-13" value="&lt;br style=&quot;font-size: 12px;&quot;&gt;&lt;div class=&quot;flex flex-grow flex-col gap-3&quot;&gt;&lt;div class=&quot;min-h-[20px] flex flex-col items-start gap-3 overflow-x-auto whitespace-pre-wrap break-words&quot;&gt;&lt;div class=&quot;markdown prose w-full break-words dark:prose-invert light&quot;&gt;&lt;p&gt;Number of studies included in the review&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;p style=&quot;text-align: center; font-size: 12px;&quot; class=&quot;MsoNormal&quot; align=&quot;center&quot;&gt;&lt;/p&gt;&lt;p style=&quot;text-align: center; font-size: 12px;&quot; class=&quot;MsoNormal&quot; align=&quot;center&quot;&gt;(n = 37)&lt;span style=&quot;font-size: 12px;&quot; lang=&quot;ES&quot;&gt;&lt;/span&gt;&lt;/p&gt;" style="whiteSpace=wrap;html=1;rounded=0;fontFamily=Times New Roman;fontSize=12;" parent="1" vertex="1">
+          <mxGeometry x="125" y="410" width="240" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="eSXVUBHYgicq2QWfFTog-14" value="Número de registros excluidos después de leer el titulo &lt;br&gt;&lt;br&gt;(n= 227 )" style="whiteSpace=wrap;html=1;rounded=0;fontFamily=Times New Roman;" vertex="1" parent="1">
+        <mxCell id="eSXVUBHYgicq2QWfFTog-14" value="&lt;div&gt;Number of records excluded after reading the title&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;(n= 227 )" style="whiteSpace=wrap;html=1;rounded=0;fontFamily=Times New Roman;" parent="1" vertex="1">
           <mxGeometry x="535" y="185" width="215" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="eSXVUBHYgicq2QWfFTog-15" value="Excluidos tras leer el resumen.&lt;br&gt;No abordan una problemática donde se involucre la implementación framework de machine learning&lt;br&gt;(n= 82 )" style="whiteSpace=wrap;html=1;rounded=0;fontFamily=Times New Roman;" vertex="1" parent="1">
+        <mxCell id="eSXVUBHYgicq2QWfFTog-15" value="&lt;div&gt;Excluded after reading the abstract.&amp;nbsp;&lt;/div&gt;&lt;div&gt;They do not address an issue involving the implementation of a machine learning framework.&lt;/div&gt;(n= 82 )" style="whiteSpace=wrap;html=1;rounded=0;fontFamily=Times New Roman;" parent="1" vertex="1">
           <mxGeometry x="535" y="300" width="215" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="eSXVUBHYgicq2QWfFTog-16" value="&lt;b style=&quot;font-size: 12px;&quot;&gt;Identificación&amp;nbsp;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;rotation=-90;fillColor=#dae8fc;strokeColor=#6c8ebf;fontFamily=Times New Roman;fontSize=12;" vertex="1" parent="1">
+        <mxCell id="eSXVUBHYgicq2QWfFTog-16" value="&lt;b&gt;Detection&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;rotation=-90;fillColor=#dae8fc;strokeColor=#6c8ebf;fontFamily=Times New Roman;fontSize=12;" parent="1" vertex="1">
           <mxGeometry x="-10" y="-10" width="100" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="eSXVUBHYgicq2QWfFTog-17" value="&lt;b style=&quot;font-size: 12px;&quot;&gt;Cribado&amp;nbsp;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;rotation=-90;fontFamily=Times New Roman;fontSize=12;" vertex="1" parent="1">
+        <mxCell id="eSXVUBHYgicq2QWfFTog-17" value="&lt;b&gt;Screening&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;rotation=-90;fontFamily=Times New Roman;fontSize=12;" parent="1" vertex="1">
           <mxGeometry x="-20" y="130" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="eSXVUBHYgicq2QWfFTog-18" value="&lt;b style=&quot;font-size: 12px;&quot;&gt;Idoneidad&amp;nbsp;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;rotation=-90;fontFamily=Times New Roman;fontSize=12;" vertex="1" parent="1">
+        <mxCell id="eSXVUBHYgicq2QWfFTog-18" value="&lt;div&gt;&lt;b&gt;Suitability&lt;/b&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;rotation=-90;fontFamily=Times New Roman;fontSize=12;" parent="1" vertex="1">
           <mxGeometry x="-20" y="280" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="eSXVUBHYgicq2QWfFTog-19" value="&lt;b style=&quot;font-size: 12px;&quot;&gt;Inclusión&amp;nbsp;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;rotation=-90;fontFamily=Times New Roman;fontSize=12;" vertex="1" parent="1">
+        <mxCell id="eSXVUBHYgicq2QWfFTog-19" value="&lt;b style=&quot;font-size: 12px;&quot;&gt;Inclusion&amp;nbsp;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;rotation=-90;fontFamily=Times New Roman;fontSize=12;" parent="1" vertex="1">
           <mxGeometry x="-20" y="430" width="120" height="30" as="geometry" />
         </mxCell>
       </root>
