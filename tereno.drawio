@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-02-20T00:17:10.541Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:123.0) Gecko/20100101 Firefox/123.0" etag="5IxwdQIOqAHOxjDJt68k" version="23.1.2" type="github">
+<mxfile host="app.diagrams.net" modified="2024-02-20T00:20:29.499Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:123.0) Gecko/20100101 Firefox/123.0" etag="_ghaTH-Puyy2OTXurXrb" version="23.1.2" type="github">
   <diagram name="Página-1" id="nFpyrjnZdd-oJNSMOctl">
     <mxGraphModel dx="1242" dy="821" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -28,7 +28,7 @@
             <mxPoint x="560" y="310" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="xhCVFTn-oG7j5q-j1_tC-6" value="45 mt" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="xhCVFTn-oG7j5q-j1_tC-6" value="45 metros" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="330" y="320" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="xhCVFTn-oG7j5q-j1_tC-7" value="" style="shape=mxgraph.pid.vessels.vent_(cover);html=1;pointerEvents=1;align=center;verticalLabelPosition=bottom;verticalAlign=top;dashed=0;" vertex="1" parent="1">
